@@ -12,3 +12,6 @@ Challenge | Subdomain | Points | Solution
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | Warmup | 10 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/MiniMaxSum.py)
 [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)| Warmup | 10 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/BirthdayCakeCandles.py)
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | Warmup | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/TimeConversion.py)
+[Grading Students](https://www.hackerrank.com/challenges/grading/problem) | Implementation | 10 | [Python]()
+[Apple an Orange](https://www.hackerrank.com/challenges/apple-and-orange) | Implementation | 10 | [Python]()
+[Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Implementation | 10 | [Python]()
