@@ -1,7 +1,7 @@
 # Algorithms
 
-Challenge | Subdomain | Points | Solution
-----------|-----------|--------|---------
+Challenge | Points | Solution
+----------|--------|---------
 [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| 1 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/SolveMeFirst.py)
 [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| 10 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/SimpleArraySum.py)
 [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| 10 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/CompareTheTriplets.py)
