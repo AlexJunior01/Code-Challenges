@@ -22,3 +22,5 @@ Challenge | Points | Solution
 [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | 15 | [Python]()
 [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem) | 10 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/DayOfTheProgrammer.py)
 [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | 10 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/SalesByMatch.py)
+[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/CountingValleys.py)
+[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?h_r=next-challenge&h_v=zen) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ElectronicsShop.py)
