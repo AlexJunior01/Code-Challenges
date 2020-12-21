@@ -29,4 +29,7 @@ Challenge | Points | Solution
 [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | 10 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/BetweenTwoSets.py)
 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/PickingNumbers.py)
 [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem#!) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ClimbingTheLeaderboard.py)
-
+[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/TheHurdleRace.py)
+[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/DesignerPDFViewer.py)
+[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/UtopianTree.py)
+[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/AngryProfessor.py)
