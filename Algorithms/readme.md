@@ -27,3 +27,6 @@ Challenge | Points | Solution
 [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/CatsAndAMouse.py)
 [Forming a Magic Squar](https://www.hackerrank.com/challenges/magic-square-forming/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/FormingMagicSquare.py)
 [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | 10 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/BetweenTwoSets.py)
+[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/PickingNumbers.py)
+[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem#!) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ClimbingTheLeaderboard.py)
+
