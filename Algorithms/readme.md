@@ -26,3 +26,5 @@ Challenge | Points | Solution
 [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?h_r=next-challenge&h_v=zen) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ElectronicsShop.py)
 [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/CatsAndAMouse.py)
 [Forming a Magic Squar](https://www.hackerrank.com/challenges/magic-square-forming/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/FormingMagicSquare.py)
+[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/PickingNumbers.py)
+[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem#!) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ClimbingTheLeaderboard.py)
