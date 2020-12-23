@@ -33,3 +33,8 @@ Challenge | Points | Solution
 [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/DesignerPDFViewer.py)
 [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/UtopianTree.py)
 [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/AngryProfessor.py)
+[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/BeautifulDaysAtTheMovies.py)
+[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ViralAdvertising.py)
+[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/SaveThePrisoner.py)
+[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/CircularArrayRotation.py)
+[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/SequenceEquation.py)
