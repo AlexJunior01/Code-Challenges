@@ -38,3 +38,6 @@ Challenge | Points | Solution
 [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/SaveThePrisoner.py)
 [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/CircularArrayRotation.py)
 [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/SequenceEquation.py)
+[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/JumpingOnTheCloudsRevisited.py)
+[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | 25 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/FindDigits.py)
+[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ExtraLongFactorials.py)
