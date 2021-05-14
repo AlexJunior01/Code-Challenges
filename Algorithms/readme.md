@@ -41,3 +41,5 @@ Challenge | Points | Solution
 [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | 15 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/JumpingOnTheCloudsRevisited.py)
 [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | 25 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/FindDigits.py)
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ExtraLongFactorials.py)
+[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/sherlock_and_squares.py)
+[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/libraty_fine.py)
