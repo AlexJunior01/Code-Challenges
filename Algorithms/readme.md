@@ -42,4 +42,6 @@ Challenge | Points | Solution
 [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | 25 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/FindDigits.py)
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/ExtraLongFactorials.py)
 [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/sherlock_and_squares.py)
-[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/libraty_fine.py)
+[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/library_fine.py)
+[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/cut_the_sticks.py)
+[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | 20 | [Python](https://github.com/AlexJunior01/HackerRank/blob/master/Algorithms/non_divisible_subset.py)
