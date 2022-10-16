@@ -1,23 +1,24 @@
-from math import sqrt
-
-def diagonalDifference(arr):
-    principal = antidiagonal = 0
+def diagonal_difference(arr):
+    diag1 = diag2 = 0
     size = len(arr)
-    for i in range(0, size):
-        index_s = size-1
 
-        principal += arr[i][i]
-        antidiagonal += arr[i][index_s-i]
+    for i in range(size):
+        diag1 += arr[i][i]
+        diag2 += arr[i][size-i-1]
 
-    result = abs(principal - antidiagonal)
-    return result
+    return abs(diag1 - diag2)
 
-n = int(input().strip())
 
-arr = []
+if __name__ == '__main__':
+    n = int(input().strip())
+    arr = []
+    for _ in range(n):
+        arr.append(list(map(int, input().rstrip().split())))
 
-for _ in range(n):
-    arr.append(list(map(int, input().rstrip().split())))
+    result = diagonal_difference(arr)
+    print(result)
 
-result = diagonalDifference(arr)
-print(result)
+
+# 00 01 02
+# 10 11 12
+# 20 21 22
